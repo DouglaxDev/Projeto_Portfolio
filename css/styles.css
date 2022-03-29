@@ -59,6 +59,6 @@ a:before{
 
 body{
     font-family: 'Share Tech Mono', monospace;
-    background-image: url(/assets/image/pexels-cottonbro-\p.png);
+    background-image: url(/assets/image/pexels-cottonbro-\p.png) norepeat;
     background-color: #464646;
 }
